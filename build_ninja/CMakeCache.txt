@@ -240,6 +240,15 @@ obychaika_IS_TOP_LEVEL:STATIC=OFF
 //Value Computed by CMake
 obychaika_SOURCE_DIR:STATIC=/Users/ilabublik/Desktop/lesson_1/Cmake_prj/obychaika
 
+//Value Computed by CMake
+sort_BINARY_DIR:STATIC=/Users/ilabublik/Desktop/lesson_1/Cmake_prj/build_ninja/sort
+
+//Value Computed by CMake
+sort_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+sort_SOURCE_DIR:STATIC=/Users/ilabublik/Desktop/lesson_1/Cmake_prj/sort
+
 
 ########################
 # INTERNAL cache entries
@@ -339,7 +348,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=2
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=3
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
