@@ -1,0 +1,5 @@
+/Users/ilabublik/Desktop/lesson_1/Cmake_prj/build_ninja/CMakeFiles/edit_cache.dir
+/Users/ilabublik/Desktop/lesson_1/Cmake_prj/build_ninja/CMakeFiles/rebuild_cache.dir
+/Users/ilabublik/Desktop/lesson_1/Cmake_prj/build_ninja/obychaika/CMakeFiles/obychaika.dir
+/Users/ilabublik/Desktop/lesson_1/Cmake_prj/build_ninja/obychaika/CMakeFiles/edit_cache.dir
+/Users/ilabublik/Desktop/lesson_1/Cmake_prj/build_ninja/obychaika/CMakeFiles/rebuild_cache.dir
