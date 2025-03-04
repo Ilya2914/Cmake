@@ -7,4 +7,5 @@ test*
 *.ii
 *.s
 *.o
-/unit_test
+/build_ninja
+build_ninja/
