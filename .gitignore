@@ -1,6 +1,7 @@
 build_*/
 test*
 lib/
+*.sh
 *.exe
 *.ii
 *.s
